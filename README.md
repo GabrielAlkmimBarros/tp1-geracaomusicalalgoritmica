@@ -93,7 +93,20 @@ Reconstrói MIDIs a partir do corpus na pasta `sanidade/`, para escutar se as me
 
 ### 4. Áudio
 
-Os MIDIs são convertidos para áudio apenas para audição, com FluidSynth e um soundfont livre. Os arquivos de áudio usados no resumo estão em `saida/`.
+Os MIDIs são convertidos para áudio (`.wav`) apenas para audição. Os arquivos renderizados ficam em `saida/`, com o sufixo `-mix` no nome (por exemplo, `mj_ordem2_semente6-mix.wav`).
+
+| Arquivo | Ordem | Semente | Para que serve |
+|---|---|---|---|
+| `mj_ordem2_semente6-mix.wav` | 2 | 6 | comparação entre ordens (mesma semente) |
+| `mj_ordem5_semente6-mix.wav` | 5 | 6 | comparação entre ordens (mesma semente) |
+| `mj_ordem2_semente7-mix.wav` | 2 | 7 | comparação entre ordens (mesma semente) |
+| `mj_ordem5_semente7-mix.wav` | 5 | 7 | comparação entre ordens (mesma semente) |
+| `mj_ordem2_semente5-mix.wav` | 2 | 5 | exemplo adicional |
+| `mj_ordem4_semente8-mix.wav` | 4 | 8 | exemplo adicional, em outra ordem |
+
+**Como ouvir a diferença entre as ordens:** as sementes 6 e 7 foram renderizadas na ordem 2 e na ordem 5, com a mesma semente nas duas. Compare `mj_ordem2_semente6` com `mj_ordem5_semente6`, e `mj_ordem2_semente7` com `mj_ordem5_semente7`. A ordem baixa tende a soar mais livre e menos reconhecível. A ordem alta tende a seguir trechos mais fiéis às músicas do corpus, com maior risco de reproduzir passagens inteiras.
+
+Os outros arquivos (`ordem2_semente5` e `ordem4_semente8`) mostram como o resultado soa em outras ordens e sementes.
 
 ## Uso de IA
 
