@@ -100,15 +100,13 @@ Junto do relatório, foi submetido uma pasta com alguns arquivos .wav:
 | Arquivo | Ordem | Semente | Para que serve |
 |---|---|---|---|
 | `mj_ordem2_semente6-mix.wav` | 2 | 6 | comparação entre ordens (mesma semente) |
-| `mj_ordem5_semente6-mix.wav` | 5 | 6 | comparação entre ordens (mesma semente) |
 | `mj_ordem2_semente7-mix.wav` | 2 | 7 | comparação entre ordens (mesma semente) |
 | `mj_ordem5_semente7-mix.wav` | 5 | 7 | comparação entre ordens (mesma semente) |
-| `mj_ordem2_semente5-mix.wav` | 2 | 5 | exemplo adicional |
 | `mj_ordem4_semente8-mix.wav` | 4 | 8 | exemplo adicional, em outra ordem |
 
-**Como ouvir a diferença entre as ordens:** as sementes 6 e 7 foram renderizadas na ordem 2 e na ordem 5, com a mesma semente nas duas. Compare `mj_ordem2_semente6` com `mj_ordem5_semente6`, e `mj_ordem2_semente7` com `mj_ordem5_semente7`. A ordem baixa tende a soar mais livre e menos reconhecível. A ordem alta tende a seguir trechos mais fiéis às músicas do corpus, com maior risco de reproduzir passagens inteiras.
+**Como ouvir a diferença entre as ordens:** a semente 7 foi renderizada na ordem 2 e na ordem 5, com a mesma semente nas duas. Compare `mj_ordem2_semente7` com `mj_ordem5_semente7`. A ordem baixa tende a soar mais livre e menos reconhecível. A ordem alta tende a seguir trechos mais fiéis às músicas do corpus, com maior risco de reproduzir passagens inteiras.
 
-Os outros arquivos (`ordem2_semente5` e `ordem4_semente8`) mostram como o resultado soa em outras ordens e sementes.
+O outro arquivo (`ordem4_semente8`) mostra como o resultado soa em outra ordem e semente.
 
 ## Uso de IA
 
