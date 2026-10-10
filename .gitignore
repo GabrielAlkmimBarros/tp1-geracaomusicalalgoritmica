@@ -1,0 +1,27 @@
+# Ambiente virtual e caches do Python
+venv/
+__pycache__/
+*.pyc
+
+# MIDIs originais (direitos autorais) e o backup deles
+data/
+data.zip
+
+# Saídas de teste e de análise (podem ser regeneradas)
+sanidade/
+saida/*.png
+saida/esparsidade_*.csv
+
+# Resumo ISMIR: vai pelo Moodle, não pelo repositório (arquivos auxiliares do LaTeX)
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# Configuração local do Claude Code e do editor
+.claude/
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db

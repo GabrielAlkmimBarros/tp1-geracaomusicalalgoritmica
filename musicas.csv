@@ -1,0 +1,34 @@
+﻿musica;fase;status;arquivo;trilha;instrumento;nome_da_trilha;alternativa;motivo
+Bad;solo;usar;Bad.3.mid;1;Lead 1 (square);Melody;;trilha chamada 'Melody'
+Beat It;solo;usar;Beat_It.mid;1;Vibraphone;Melody;;trilha chamada 'Melody'
+Billie Jean;solo;usar;Billie_Jean.2.mid;4;Electric Guitar (jazz);MELODY;;trilha 'MELODY', igual à 'Lead Vox' de outra versão
+Black or White;solo;usar;Black_or_White.6.mid;1;Lead 3 (calliope);Melody;;trilha chamada 'Melody'
+Blood on the Dance Floor;solo;usar;Blood_on_the_Dance_Floor.mid;3;Voice Oohs;MELODIE;;trilha chamada 'MELODIE'
+Earth Song;solo;usar;Earth_Song.mid;18;Tenor Sax;Vocal-Lin;;trilha chamada 'Vocal-Lin' (vocal line)
+Give In to Me;solo;usar;Give_In_to_Me.mid;13;Lead 8 (bass + lead);Melodie;;trilha chamada 'Melodie'
+Heal the World;solo;usar;Heal_The_World.mid;1;Vibraphone;Melody;;trilha chamada 'Melody'
+Human Nature;solo;usar;Human_Nature.mid;1;Flute;MELODY;;trilha chamada 'MELODY'
+I Just Can't Stop Loving You;solo;usar;I_Just_Cant_Stop_Loving_You.3.mid;1;Vibraphone;Melody;;trilha chamada 'Melody'
+Man in the Mirror;solo;usar;Man_in_the_Mirror.1.mid;1;Lead 3 (calliope);Melody;;trilha chamada 'Melody'
+Remember the Time;solo;usar;Remember_the_Time.mid;1;Electric Guitar (jazz);MELODY;;trilha chamada 'MELODY'
+Scream;solo;usar;Scream.1.mid;4;Alto Sax;MELODY;;trilha chamada 'MELODY'
+Smooth Criminal;solo;usar;Smooth_Criminal.1.mid;1;Vibraphone;Melody;;trilha chamada 'Melody'
+The Girl Is Mine;solo;usar;The_Girl_Is_Mine.3.mid;1;Vibraphone;Melody;;trilha chamada 'Melody'
+The Way You Make Me Feel;solo;usar;The_Way_You_Make_Me_Feel.mid;1;Vibraphone;Melody;;trilha chamada 'Melody'
+Thriller;solo;usar;Thriller.2.mid;1;Shanai;Melody;;trilha chamada 'Melody'
+Wanna Be Startin' Somethin';solo;usar;Wanna_Be_Startin_Somethin.mid;1;Vibraphone;Melody;;trilha chamada 'Melody'
+You Are Not Alone;solo;usar;You_Are_Not_Alone.1.mid;3;Flute;MELODY;;trilha chamada 'MELODY'
+Don't Stop 'Til You Get Enough;solo;usar;Dont_Stop_Til_You_Get_Enough.mid;4;Lead 2 (sawtooth);Don't Stop 'Til...;6 (Lead 1 (square));palpite pela heurística (sem trilha nomeada)
+Ghosts;solo;usar;Ghosts.mid;4;Lead 2 (sawtooth);82;10 (Percussive Organ);palpite pela heurística (sem trilha nomeada)
+HIStory;solo;usar;HIStory.mid;7;Lead 2 (sawtooth);82;8 (Percussive Organ);palpite pela heurística (sem trilha nomeada)
+Liberian Girl;solo;usar;Liberian_Girl.1.mid;3;Pan Flute;LiberianGirl;5 (FX 8 (sci-fi));palpite: mesmo padrão de outros arquivos da mesma fonte
+Off the Wall;solo;usar;Off_the_Wall.1.mid;3;Lead 1 (square);SQUAREWAVE;13 (Voice Oohs);palpite: mesmo padrão de outros arquivos da mesma fonte
+Rock With You;solo;usar;Rock_With_You.1.mid;3;Lead 8 (bass + lead);RockWithYou;7 (Ocarina);palpite: mesmo padrão de outros arquivos da mesma fonte
+She's Out of My Life;solo;usar;Shes_Out_Of_My_Life.1.mid;3;English Horn;OutOfMyLi;;"palpite: única trilha melódica; andamento livre (rubato)"
+Stranger in Moscow;solo;usar;Stranger_in_Moscow.1.mid;7;Breath Noise;STRANGER;3 (Clarinet);palpite pela heurística (sem trilha nomeada)
+The Lady in My Life;solo;usar;The_Lady_in_My_Life.mid;3;Acoustic Guitar (nylon);tk4;11 (Acoustic Grand Piano);palpite: mesmo padrão de outros arquivos da mesma fonte
+They Don't Care About Us;solo;usar;They_Dont_Care_About_Us.mid;1;Lead 2 (sawtooth);Piano1;2 (Lead 8 (bass + lead));palpite pela heurística (sem trilha nomeada)
+You Rock My World (Intro);solo;usar;Intro_You_Rock_My_World.mid;3;Alto Sax;Michael Jackson - You rock my world;7 (Alto Sax);"palpite pela heurística; pode ser só a introdução"
+I Want You Back;grupo;usar;I_Want_You_Back.mid;4;Tenor Sax;;;palpite pela heurística (sem trilha nomeada)
+Never Can Say Goodbye;grupo;usar;Never_Can_Say_Goodbye.mid;4;Tenor Sax;Never Can Say Goodbye;5 (Flute);palpite pela heurística (sem trilha nomeada)
+One Day in Your Life;solo_infancia;usar;One_Day_In_Your_Life.mid;12;Alto Sax;03481DAY;7 (Harmonica);palpite pela heurística (sem trilha nomeada)

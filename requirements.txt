@@ -1,0 +1,9 @@
+# Leitura e escrita de arquivos MIDI
+pretty_midi>=0.2.10
+mido>=1.3
+
+# Cálculos (estimativa de tonalidade, estatísticas)
+numpy>=1.24
+
+# Gráficos para o resumo (Fase 4)
+matplotlib>=3.7
