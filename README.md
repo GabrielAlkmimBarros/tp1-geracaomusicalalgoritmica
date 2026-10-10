@@ -99,7 +99,7 @@ Junto do relatório, foi submetido uma pasta com alguns arquivos .wav:
 
 | Arquivo | Ordem | Semente | Para que serve |
 |---|---|---|---|
-| `mj_ordem2_semente6-mix.wav` | 2 | 6 | comparação entre ordens (mesma semente) |
+| `mj_ordem2_semente6-mix.wav` | 2 | 6 | exemplo ordem 2 |
 | `mj_ordem2_semente7-mix.wav` | 2 | 7 | comparação entre ordens (mesma semente) |
 | `mj_ordem5_semente7-mix.wav` | 5 | 7 | comparação entre ordens (mesma semente) |
 | `mj_ordem4_semente8-mix.wav` | 4 | 8 | exemplo adicional, em outra ordem |
