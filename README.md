@@ -95,6 +95,8 @@ Reconstrói MIDIs a partir do corpus na pasta `sanidade/`, para escutar se as me
 
 Os MIDIs são convertidos para áudio (`.wav`) apenas para audição. Os arquivos renderizados ficam em `saida/`, com o sufixo `-mix` no nome (por exemplo, `mj_ordem2_semente6-mix.wav`).
 
+Junto do relatório, foi submetido uma pasta com alguns arquivos .wav:
+
 | Arquivo | Ordem | Semente | Para que serve |
 |---|---|---|---|
 | `mj_ordem2_semente6-mix.wav` | 2 | 6 | comparação entre ordens (mesma semente) |
